@@ -1,4 +1,8 @@
+meeting link for today’s scheduled session at 1:00 PM has been provided below for your reference.
 
+
+
+Meeting Link: https://meet.google.com/vuv-gaiw-mrz
 
 # DBMS
 
