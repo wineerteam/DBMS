@@ -1,3 +1,26 @@
+#important links: --
+HLD :-  Ultimate LLD and HLD Roadmap | System Design RoadMap | LLD & HLD Topics to be covered for Interview 
+SpringBoot:- What is Spring Boot in Hindi | The Whys and Hows of this Java Marvel!
+AWS (claud computing): - AWS Tutorials - 1 - Introducing the AWS Playlist (AWS in Hindi)
+OS :- Complete Operating Systems in 1 Shot (With Notes) || For Placement Interviews
+DBMS:- Complete DBMS in 1 Video (With Notes) || For Placement Interviews
+CN:- Gate Smashers.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 meeting link for today’s scheduled session at 1:00 PM has been provided below for your reference.
 
 
