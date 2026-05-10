@@ -5,6 +5,12 @@ AWS (claud computing): - AWS Tutorials - 1 - Introducing the AWS Playlist (AWS i
 OS :- Complete Operating Systems in 1 Shot (With Notes) || For Placement Interviews
 DBMS:- Complete DBMS in 1 Video (With Notes) || For Placement Interviews
 CN:- Gate Smashers.
+
+
+
+#Contact number: +91 70475 60224 (mesh wala).
+
+
  
 
 
